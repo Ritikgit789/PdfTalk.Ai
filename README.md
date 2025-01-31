@@ -18,7 +18,7 @@ FAISS (Vector search for document retrieval)
 Google Generative AI (Gemini 1.5 flash) (AI-powered responses)
 dotenv (Environment variable management)
 
-![Home Page](Images/Frontend.png)  
+![Home Page](Frontendpic.png)  
 
 📌 Future Enhancements
 🔹 Support for DOCX & TXT file uploads
