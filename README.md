@@ -9,6 +9,7 @@ A Streamlit-based AI chatbot that allows users to upload PDFs, extract text, and
 ✅ Modern UI with Streamlit & sidebar enhancements
 ✅ Download processed text after extraction
 
+
 🛠️ Tech Stack Used
 Python 
 Streamlit (Frontend UI)
