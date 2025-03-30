@@ -23,6 +23,7 @@ dotenv (Environment variable management)
 
 📌 Future Enhancements
 🔹 Support for DOCX & TXT file uploads
+🔹 Better UI and UX for attract more users
 🔹 Improve AI accuracy with context-aware retrieval
 🔹 Add chat memory for better conversation flow
 
