@@ -10,6 +10,7 @@ A Streamlit-based AI chatbot that allows users to upload PDFs, extract text, and
 ✅ Download processed text after extraction
 
 
+
 🛠️ Tech Stack Used
 Python 
 Streamlit (Frontend UI)
@@ -27,3 +28,4 @@ dotenv (Environment variable management)
 🔹 Improve AI accuracy with context-aware retrieval
 🔹 Add chat memory for better conversation flow
 
+Check out this project!
